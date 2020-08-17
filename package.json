@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A cli for developer to create web app",
   "bin": {
-    "creater": "bin/launch"
+    "appcreater": "bin/launch"
   },
   "repository": {
     "type": "git",
