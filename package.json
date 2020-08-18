@@ -19,9 +19,6 @@
     "url": "https://github.com/denbowen/app-creater/issues"
   },
   "homepage": "https://github.com/denbowen/app-creater.git",
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "lint": "eslint --fix lib/**/*.js bin/*",
     "precommit": "lint-staged"
