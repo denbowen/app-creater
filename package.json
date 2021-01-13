@@ -1,7 +1,12 @@
 {
-  "name": "@app-creater/cli",
-  "version": "0.0.1",
+  "name": "app-creater",
+  "version": "0.0.3",
   "description": "A cli for developer to create web app",
+  "author": "dbwjay",
+  "license": "MIT",
+  "keywords": [
+    "cli"
+  ],
   "bin": {
     "appcreater": "bin/launch"
   },
@@ -10,11 +15,6 @@
     "url": "https://github.com/denbowen/app-creater.git",
     "directory": "bin/cli"
   },
-  "keywords": [
-    "cli"
-  ],
-  "author": "dbw",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/denbowen/app-creater/issues"
   },
